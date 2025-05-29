@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 
 ## 📌 Featured Projects
 
-- **Medical Imaging Web Platform:** Secure web platform for mammography processing (Google Cloud, Python, React, Express) → [📖 Read the docs (MkDocs)](https://lbguarino.github.io/imago-web-interface/)
-- **[AI Cook App](https://github.com/LBGuarino/ai.cook):** Android & iOS Mobile App powered by DeepSeek AI for recipes generation (Next.js + Flutter)
+- **Medical Imaging Web Platform:** Secure web platform for mammography processing (Google Cloud, Python, React, Express) → [📖 Read the docs (MkDocs)](https://luciaschlegel.github.io/imago-web-interface/)
+- **[AI Cook App](https://github.com/LuciaSchlegel/ai.cook):** Android & iOS Mobile App powered by DeepSeek AI for recipes generation (Next.js + Flutter)
 - **More coming soon…**
 
 ## 🤝 Let’s Connect!
