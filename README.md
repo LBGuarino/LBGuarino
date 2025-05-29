@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a stron
 ## 🤝 Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/lucia-guarino-schlegel-1300ba189/)  
-- Email: luciagschlegel@web.de
+- Email: lucia.schlegel2@gmail.com
 
 Thanks for visiting! ⭐️
