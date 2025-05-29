@@ -1,25 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucia!
 
-👋 Hola, soy Lucia
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a strong background in Biotechnology. My main focus is on building modern, user-centered and appealing applications that combine technological innovation with real-world impact.
 
-**Desarrollador Full-Stack | Especializado en Seguridad y Aplicaciones Médicas**
+- 🧑‍💻  I love working with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js**, and **Flutter**.
+- 🌱  Currently, I’m exploring AI-powered solutions for healthcare improvement.
+- 🚀  I enjoy learning new technologies, building side projects, and collaborating in agile teams.
+- 🇩🇪  Based in Munich, Germany |
 
-## 📈 Estadísticas
-[![GitHub Streak](https://streak-stats.demolab.com?user=tu-usuario&theme=dark)](https://git.io/streak-stats)
+## 🛠️ Tech Stack
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- **Frontend:** React, Next.js, Flutter, Tailwind CSS
+- **Backend:** Node.js, Express, Python, TypeORM
+- **Database:** PostgreSQL, Google Cloud, Firebase
+- **Other:** Git, Docker, Figma, Google Cloud & RESTful APIs
 
-<!--
-**LBGuarino/LBGuarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
 
-Here are some ideas to get you started:
+- **Medical Imaging Web Platform:** Secure web platform for mammography processing (Google Cloud, Python, React, Express)
+- **AI.Cook:** Android & iOS Mobile App powered by DeepSeek AI for recipes generation (Next.js + Flutter)
+- **More coming soon…**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/lucia-guarino-schlegel-1300ba189/)  
+- Email: luciagschlegel@web.de
+
+Thanks for visiting! ⭐️
